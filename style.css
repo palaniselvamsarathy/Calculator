@@ -41,14 +41,10 @@ form .display{
 }
 
 form .display input{
-    align-items: right;
+    text-align: right;
     flex: 1;
     font-size: 2rem;
     box-shadow: none;
-}
-
-form input.equal {
-    width: 145px;
 }
 
 form input.highlight{
